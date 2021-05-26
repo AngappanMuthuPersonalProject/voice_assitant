@@ -1,0 +1,18 @@
+sudo apt-get install python-pyaudio
+sudo apt-get install portaudio19-dev
+python -m pip install SpeechRecognition
+pip3 install gTTS
+pip3 install wikipedia
+
+// install pyAudio in interpreter pycharm
+
+
+
+pip install pyaudio
+pip install --upgrade pyaudio
+pip install wheel
+pip install google-api-python-client
+sudo apt-get install flac
+pip install monotonic
+pip install SpeechRecognition
+
